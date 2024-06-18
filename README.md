@@ -1,2 +1,2 @@
-# writer_sth
-写花里胡哨的东西
+# theme
+收集自己喜欢的typora——theme
